@@ -1,5 +1,5 @@
 # SLAE Assignment 2.
-# bind_shell_generator
+# reverse_shell_generator
 # StudentID : SLAE-1133
 # usage: python3 reverse_shell_generator.py --lport 1234 >> test_shell.nasm
 
